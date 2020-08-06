@@ -22,8 +22,11 @@
 4. Your article is available at https://jmss-plastic-oceans.vercel.app/pages/[location-that-you-put]
 
 ## Get access
-If you want to write posts, you have to have the correct credentials. Email one of these people to request access:
+If you want to write posts, you have to have the correct credentials. Email one of these people to request access :
 - Oviya P. (Developer) - pon0004@jmss.vic.edu.au
 - Shaunak G. (Developer) - gad0003@jmss.vic.edu.au
 
 *We can also make you part of this list - just ask!*
+
+## Developer access
+[Here's a link to the credentials](https://github.com/jmss-plastic-oceans/private/blob/master/cms.md)
