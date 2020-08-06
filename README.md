@@ -23,7 +23,6 @@
 
 ## Get access
 If you want to write posts, you have to have the correct credentials. Email one of these people to request access:
-- Gavin L. (Head of Media) - li-0021@jmss.vic.edu.au
 - Oviya P. (Developer) - pon0004@jmss.vic.edu.au
 - Shaunak G. (Developer) - gad0003@jmss.vic.edu.au
 
